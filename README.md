@@ -13,3 +13,4 @@ The notebooks for the final assignment are:
 The fourth notebook is for IV so it is empty.
 
 ## Project Description 
+The project description is provided in the four jupyter notebooks. 
